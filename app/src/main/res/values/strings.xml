@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PZZZ</string>
+
+    <string name="home_articulo">Mis Articulos</string>
+    <string name="home_buscar">Buscar Articulo</string>
+    <string name="titulo_articulo">Titulo*</string>
+    <string name="descripcion_articulo">Descripcion*</string>
+    <string name="precio_articulo">Precio*</string>
+    <string name="articulo_categoria">Categoria*</string>
+
+    <string name="btn_txt_nuevo_articulo">Articulo +</string>
+</resources>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="invalid_empty" type="id"/>
+    <item name="invalid_emptydes" type="id"/>
+    <item name="invalid_precio" type="id"/>
+    
+</resources>
